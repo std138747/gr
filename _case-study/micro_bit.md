@@ -2,7 +2,7 @@
 author: std138747
 title: "BBC micro:bit"
 image_url: /images/micro_bit_bbc.jpg
-caption: "XXX"
+caption: "Με τον μικροελεγκτή Micro:bit τα παιδιά μαθαίνουν να κατασκευάζουν αυτοματισμούς και σύνθετες ρομποτικές διατάξεις, συνδιάζοντας διάφορα περιφερειακά όπως αισθητήρες και κινητήρες. "
 categories:
   - case-study
   - education
